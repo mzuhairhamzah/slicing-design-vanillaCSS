@@ -1,5 +1,7 @@
 # Slicing Design UI to HTML + Vanilla CSS
-
+## Tools
+- Figma
+- Vscode studio
 ## Materials
 - Reference : [Jobless - codedesign.dev](https://codedesign.dev/challenge/jobless)
 - Reference : [HTML docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
