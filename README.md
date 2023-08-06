@@ -1,6 +1,7 @@
 # Slicing Design UI to HTML + Vanilla CSS
 ## Tools
 - Figma
+- Brave Browser
 - Vscode studio
 ## Materials
 - Reference : [Jobless - codedesign.dev](https://codedesign.dev/challenge/jobless)
